@@ -7,4 +7,5 @@
 3. Azure Subnet
 4. Azure Public IP
 5. Azure Network Interface
-6. Azure Linux Virtual Machine
+6. Azure Linux Virtual Machine 
+
